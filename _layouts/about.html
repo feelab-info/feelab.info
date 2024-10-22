@@ -54,12 +54,15 @@ layout: defaultHome
         <h2 id="news">News</h2>
         {% include news.html %}
       {% endif %}
+      
 
+      {% comment %}
       {% if page.selected_papers %}
       
         <h2 id="recent-publications">Recent Publications</h2>
         {% include selected_papers.html %}
       {% endif %}
+      {% endcomment %}
 
     </article>
 
@@ -70,10 +73,6 @@ layout: defaultHome
 {% if page.projects %}
     {% include projects_home.html items=site.projects %}
 {% endif %}
-
-
-
-
 
 
 
@@ -91,10 +90,12 @@ layout: defaultHome
 
       
 
+      {% comment %}
       {% if page.supports %}
         <h2 id="support" class="about-tiles">Support</h2>
         {% include about_tiles.html items=site.supports %}
       {% endif %}
+      {% endcomment %}
 
       {% if page.publications %}
         <h2 id="publications">Publications</h2>
