@@ -5,7 +5,7 @@ permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
-description: Welcome to the Programming Group at the University of St. Gallen and at the Technical University of Darmstadt. Team. Projects. Support.
+description: Welcome to the FEElab website! Team. Projects. Support.
 
 news: false # includes a list of news items
 projects: true # includes a tile list of projects
