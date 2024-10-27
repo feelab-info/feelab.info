@@ -4,4 +4,4 @@ date: 2023-04-11
 inline: true
 ---
 
-Our paper on [Type-Checking CRDT Convergence]({{ '/assets/pdf/papers/2023_Type-Checking-CRDT-Convergence.pdf' | relative_url }}) has been accepted at [PLDI '23](https://pldi23.sigplan.org/){: target="_blank"} 🎉
+vLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation

@@ -4,4 +4,4 @@ date: 2023-06-09
 inline: true
 ---
 
-Try the [Propel project](/projects/propel) online now on its new website [propel-prover.github.io](https://propel-prover.github.io).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation

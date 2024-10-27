@@ -49,20 +49,13 @@ layout: defaultHome
           </div>
           {% endif %}
       </div>
-
-      {% if page.news %}
-        <h2 id="news">News</h2>
-        {% include news.html %}
-      {% endif %}
       
 
-      {% comment %}
       {% if page.selected_papers %}
       
         <h2 id="recent-publications">Recent Publications</h2>
         {% include selected_papers.html %}
       {% endif %}
-      {% endcomment %}
 
     </article>
 
@@ -84,18 +77,16 @@ layout: defaultHome
 
       
       {% include team_home.html %}
-      
-      
 
 
-      
-
-      {% comment %}
-      {% if page.supports %}
-        <h2 id="support" class="about-tiles">Support</h2>
-        {% include about_tiles.html items=site.supports %}
+      {% if page.news %}
+        <h2 id="news">News</h2>
+        {% include news.html %}
       {% endif %}
-      {% endcomment %}
+      
+      {% if page.supports %}
+        {% include support_home.html items=site.supports %}
+      {% endif %}
 
       {% if page.publications %}
         <h2 id="publications">Publications</h2>

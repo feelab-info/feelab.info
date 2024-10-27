@@ -9,8 +9,8 @@ description: Welcome to the Programming Group at the University of St. Gallen an
 
 news: false # includes a list of news items
 projects: true # includes a tile list of projects
-supports: true # includes a tile list of supports
-selected_papers: true # includes a list of papers marked as "selected={true}"
+supports: false # includes a tile list of supports
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
