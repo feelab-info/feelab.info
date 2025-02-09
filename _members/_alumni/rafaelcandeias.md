@@ -1,7 +1,7 @@
 ---
 layout: aboutResearcher
 inline: false
-group: Student Researchers
+group: Alumni
 group_rank: 7
 team_frontpage: true
 

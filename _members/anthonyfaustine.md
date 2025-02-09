@@ -2,7 +2,7 @@
 layout: aboutResearcher
 inline: false
 group: Doctoral Researchers
-group_rank: 2
+group_rank: 3
 team_frontpage: true
 
 title: MSc Anthony Faustine

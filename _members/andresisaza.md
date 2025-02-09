@@ -1,11 +1,11 @@
 ---
 layout: aboutResearcher
 inline: false
-group: Student Researchers
+group: Graduate Researchers
 group_rank: 8
 team_frontpage: true
 
-title: BSc Andrés Isaza
+title: MSc Andrés Isaza
 description: Profile of BA Quentin Gigon, Student Researcher at the FEELab Group.
 lastname: Isaza
 publications: 'author^=*Isaza'
@@ -18,7 +18,7 @@ profile:
     name: BSc Andrés Isaza
     align: right
     image: andres-isaza-profile.jpg
-    role: Student Researcher
+    role: Graduate Researcher
     website: https://www.isaza.xyz/
     email:
     phone:
